@@ -1,6 +1,6 @@
 # Office365 Email Validator
 
-![Office365 Email Validator](https://raw.githubusercontent.com/alexrony21/Office365-Email-Validator/refs/heads/main/Office365_Email_Validator.png)
+![Office365 Email Validator](https://raw.githubusercontent.com/thepythoncode97/Office365-Email-Validator/refs/heads/main/Office365_Email_Validator.png)
 
 ## Features
 

@@ -1,6 +1,6 @@
 # Office365 Email Validator
 
-![Office365 Email Validator](https://raw.githubusercontent.com/thepythoncode97/Office365-Email-Validator/refs/heads/main/Office365_Email_Validator.png)
+![Office365 Email Validator](https://raw.githubusercontent.com/pythoncode26/office365-validator/refs/heads/main/office365-email-checker.png)
 
 ## Features
 
@@ -8,7 +8,7 @@
 2. **Auto Proxy**: Automatically handles proxy configurations.
 3. **Fast Checking**: Quickly checks emails in your list.
 4. **Accurate Results**: Ensures precise verification.
-5. *Random UserAgents*: Using random useragents to be more reliable
+5. **Random UserAgents**: Using random useragents to be more reliable
 
 
 ## Contact
